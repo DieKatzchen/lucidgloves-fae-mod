@@ -1,15 +1,15 @@
 # Soldering Jigs
 
 ## Prep
-You should have the jst connectors soldered to your larger boards 
+You should have the jst connectors soldered to your larger boards
 
-You will need one each of Jig 1 and Jig 2, and two of Jig 3.
+You will need one each of Jig 1 (Top and Bottom), Jig 2, and Jig 3.
 
-Screw a spare of the larger board to Jig 1, then attach one of Jig 3 to the bottom so it will sit flat. You can use the raised part of Jig 3 to glue it to Jig 3 with something you can remove later, so you can take it apart if you need the board back.
+Screw a spare of the larger board to Jig 1 Top, then attach one of Jig 1 Bottom so it will sit flat. You can use the raised part of Jig 1 Bottom to glue it to Jig 1 Top with something you can remove later, so you can take it apart if you need the board back.
 
 
 ## Step 1
-Screw a smaller board into Jig 1. Drop some component legs into the holes, Jig 3 will act as a stop keeping them from falling all the way through. Solder them on, then trim them.
+Screw a smaller board into Jig 1. Drop some component legs into the holes, Jig 1 Bottom will act as a stop keeping them from falling all the way through. Solder them on, then trim them.
 
 ## Step 2
 Screw the larger board to the module, then slip the legs we just soldered on into place, screw down the small board, and place upside-down in Jig 2. Solder the legs, then trim.
